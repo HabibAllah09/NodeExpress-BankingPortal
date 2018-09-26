@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c3c84b-8196-4b6b-8355-cd816b46916e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/profile.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.js" afterPath="$PROJECT_DIR$/src/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/views/account.ejs" afterPath="$PROJECT_DIR$/src/views/account.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/views/index.ejs" afterPath="$PROJECT_DIR$/src/views/index.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/views/transfer.ejs" afterPath="$PROJECT_DIR$/src/views/transfer.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,17 +18,27 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+            <state relative-caret-position="262">
+              <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="transfer.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/transfer.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
@@ -63,6 +70,15 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>payment</find>
+      <find>transfer</find>
+      <find>from</find>
+      <find>accounts</find>
+      <find>credit</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -71,8 +87,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/views/account.ejs" />
         <option value="$PROJECT_DIR$/src/views/profile.ejs" />
-        <option value="$PROJECT_DIR$/src/app.js" />
         <option value="$PROJECT_DIR$/src/views/index.ejs" />
+        <option value="$PROJECT_DIR$/src/views/transfer.ejs" />
+        <option value="$PROJECT_DIR$/src/app.js" />
       </list>
     </option>
   </component>
@@ -257,12 +274,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537856550316</updated>
-      <workItem from="1537856551682" duration="5338000" />
+      <workItem from="1537856551682" duration="10975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5338000" />
+    <option name="totallyTimeSpent" value="10975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-314" width="1936" height="1056" extended-state="6" />
@@ -346,18 +363,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="50" lean-forward="false" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/transfer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
           <folding />
         </state>
       </provider>
